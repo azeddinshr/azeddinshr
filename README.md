@@ -160,7 +160,7 @@ Fine-tuned LiquidAI's LFM2-1.2B-RAG model for Arabic question answering using Ad
 ## 🎓 Education
 
 **Master of Science in Artificial Intelligence & Data Science**  
-Mohammed V University, Rabat, Morocco | *Expected Sep 2025*
+Mohammed V University, Rabat, Morocco | *Sep Sep 2025*
 
 **Bachelor of Science in Big Data & Artificial Intelligence**  
 Mohammed V University, Rabat, Morocco | *Jun 2023*
@@ -181,12 +181,6 @@ I'm interested in collaborating on:
 - 🤗 [HuggingFace](https://huggingface.co/azeddinshr)
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=azeddinshr&color=2E9EF7&style=for-the-badge)
-
-**⭐ Star my repositories if you find them useful!**
 
 </div>
 
