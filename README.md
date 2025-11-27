@@ -182,9 +182,7 @@ I'm interested in collaborating on:
 
 ---
 
-</div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer"/>
