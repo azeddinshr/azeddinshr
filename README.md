@@ -20,44 +20,47 @@ Currently completing my Master's in AI & Data Science while working on cutting-e
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### 🌟 **Weather Satellite Analyzer - Multi-Agent AI System**
+### **Weather Satellite Analyzer - Multi-Agent AI System**
 *DGM Morocco Research Project*
 
-Multi-agent AI system for automated satellite imagery and weather analysis
-- 🛰️ Built **1,000+ image dataset** with LLM-powered validation pipeline
-- 🎯 Fine-tuned **LLaVA-OneVision** & **Qwen2-VL** for technical accuracy
-- 🤝 Architected specialized agents reducing analysis time by **60%**
-- ⚡ Optimized real-time inference for weather forecasting
+Multi-agent AI system for automated satellite imagery and weather analysis using vision-language models and specialized agents for real-time meteorological forecasting.
+
+- Built **1,000+ satellite image dataset** with LLM-powered validation pipeline
+- Fine-tuned **LLaVA-OneVision** and **Qwen2-VL** models for technical accuracy in weather pattern recognition
+- Architected specialized agents reducing manual analysis time by **60%**
+- Optimized inference pipeline for real-time weather forecasting and automated report generation
 
 **Tech Stack:** `Vision-Language Models` • `Multi-Agent Systems` • `LangChain` • `PyTorch`
 
 ---
 
-### 💼 **Enterprise ML Cost Estimation Platform**
+### **Enterprise ML Cost Estimation Platform**
 *Projstream (Remote)*
 
-No-code ML platform for automated forecasting and analytics
-- 🎨 Architected complete ML pipeline with **94% accuracy**
-- ⚡ Achieved **35% faster** analysis vs manual workflows
-- 💬 Built **LLM-powered interface** for natural language queries
-- 📊 Delivered interactive dashboards for risk analysis
+No-code ML platform enabling dataset upload, preprocessing, visualization, and automated forecasting without programming requirements.
+
+- Architected end-to-end ML pipeline achieving **94% forecasting accuracy**
+- Reduced analysis time by **35%** compared to manual workflows
+- Built LLM-powered interface for natural language data queries and insight generation
+- Delivered interactive dashboards for risk analysis, Monte Carlo simulations, and contract evaluation
 
 **Tech Stack:** `Python` • `FastAPI` • `LLMs` • `Data Visualization`
 
 ---
 
-### 🌐 **Edge-Optimized Language Model**
+### **Arabic QA System - Edge-Optimized Language Model**
 *Independent Research*
 
-Fine-tuned compact LLM for edge deployment with efficient inference
-- ✨ Outperformed models **10-15x larger** on benchmark tasks
-- ⚡ Achieved **2x faster inference** on resource-constrained devices
-- 📱 Optimized for **mobile/CPU deployment** with quantization
-- 🎯 Published on **HuggingFace** with documentation
+Fine-tuned LiquidAI's LFM2-1.2B-RAG model for Arabic question answering using AdaLoRA techniques, optimized for deployment on resource-constrained devices.
 
-**Tech Stack:** `LiquidAI LFM2` • `AdaLoRA` • `Quantization` • `Edge AI`
+- Achieved competitive performance on Arabic benchmarks while outperforming models **10-15x larger**
+- Delivered **2x faster inference** on 10K Arabic QA pairs suitable for mobile and CPU deployment
+- Reduced memory footprint through quantization and efficient fine-tuning techniques
+- Published model and documentation on **HuggingFace** for community use
+
+**Tech Stack:** `LiquidAI LFM2` • `AdaLoRA` • `Quantization` • `Arabic NLP` • `Edge AI`
 
 ---
 
